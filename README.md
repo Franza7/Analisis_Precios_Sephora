@@ -5,3 +5,7 @@
 ## 🛠️ Herramientas Utilizadas * **Excel Avanzado:** Limpieza de datos (data cleaning) y manejo de tipos de datos. * **Funciones Lógicas:** Implementación de fórmulas condicionadas para segmentación de precios. * **Tablas Dinámicas:** Resúmenes estadísticos y análisis de promedios por marca. * **Visualización:** Creación de dashboards dinámicos para la toma de decisiones.
 
 ## 💡 Hallazgos Principales * **Segmentación de Mercado:** Se identificaron **5,151 productos accesibles** y **3,343 productos de lujo**. * **Top de Lujo:** Marcas como **iluminage ($449)** y **NuFACE ($288)** lideran el segmento de mayor precio promedio. * **Alerta de Calidad:** Se detectaron productos de alta gama (+$100 USD) con ratings inferiores a 4.0, como artículos específicos de **Dior** y **Gucci**, lo que representa una oportunidad de revisión de inventario o calidad.
+
+# El producto "Cleansing & Exfoliating Wipes" de SEPHORA COLLECTION es un ejemplo perfecto de éxito: cuesta solo $3 USD (Accesible) y tiene más de 266,000 loves.
+
+## Esto confirma que en Sephora, los productos de marca propia suelen ser los "Top Ventas" accesibles.

@@ -1,11 +1,44 @@
-# 📊 Análisis de Segmentación y Calidad de Productos en Sephora
+# 🛍️ Sephora Product Price & Quality Analysis
 
-## 🎯 Objetivo del Proyecto Analizar un dataset de más de 8,000 productos de Sephora para identificar la distribución de precios y detectar áreas de mejora en productos de alta gama con bajo rendimiento.
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoftexcel)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Dataset](https://img.shields.io/badge/Dataset-8%2C000%2B%20products-orange?style=flat)
 
-## 🛠️ Herramientas Utilizadas * **Excel Avanzado:** Limpieza de datos (data cleaning) y manejo de tipos de datos. * **Funciones Lógicas:** Implementación de fórmulas condicionadas para segmentación de precios. * **Tablas Dinámicas:** Resúmenes estadísticos y análisis de promedios por marca. * **Visualización:** Creación de dashboards dinámicos para la toma de decisiones.
+## 📌 Project Overview
+Analysis of 8,000+ Sephora products to identify pricing distribution patterns and detect quality gaps in high-end segments. This project simulates a real business intelligence task: helping a retail buyer understand where premium products underperform.
 
-## 💡 Hallazgos Principales * **Segmentación de Mercado:** Se identificaron **5,151 productos accesibles** y **3,343 productos de lujo**. * **Top de Lujo:** Marcas como **iluminage ($449)** y **NuFACE ($288)** lideran el segmento de mayor precio promedio. * **Alerta de Calidad:** Se detectaron productos de alta gama (+$100 USD) con ratings inferiores a 4.0, como artículos específicos de **Dior** y **Gucci**, lo que representa una oportunidad de revisión de inventario o calidad.
+## 🎯 Business Questions
+- How are Sephora products distributed across price segments?
+- Which luxury brands have the highest average prices?
+- Are there high-priced products with low customer ratings?
+- Which products offer the best value (low price + high engagement)?
 
-# El producto "Cleansing & Exfoliating Wipes" de SEPHORA COLLECTION es un ejemplo perfecto de éxito: cuesta solo $3 USD (Accesible) y tiene más de 266,000 loves.
+## 🛠️ Tools & Techniques
+- **Microsoft Excel** — data cleaning, pivot tables, conditional formulas
+- **Dynamic Dashboard** — interactive price distribution chart by brand
+- **Data Segmentation** — accessible (<$100) vs luxury (>$100) classification
 
-## Esto confirma que en Sephora, los productos de marca propia suelen ser los "Top Ventas" accesibles.
+## 📊 Key Findings
+| Insight | Result |
+|---|---|
+| Total products analyzed | 8,000+ |
+| Accessible segment (<$100) | 5,151 products |
+| Luxury segment (>$100) | 3,343 products |
+| Highest avg price brand | Iluminage ($449) |
+| Quality alert | High-end products with rating < 4.0 |
+| Best value product | Sephora Collection Wipes — $3 & 266K loves |
+
+## 💡 Main Insight
+Sephora's own-brand products consistently outperform luxury brands in customer engagement relative to price. The "Cleansing & Exfoliating Wipes" at $3 with 266,000 loves is a clear example — making it a strong candidate for inventory prioritization.
+
+## 📁 Files
+- `Sephora_Price_Analysis.xlsx` — cleaned dataset + pivot tables + dashboard
+
+## 🚀 Next Steps
+- Reproduce this analysis in **Power BI** for interactive filtering
+- Add **Python (pandas)** version for automated data cleaning
+- Expand to include category-level analysis
+
+---
+*Project by Francine Rengifo | Data Analyst in Training*
+*📎 LinkedIn: linkedin.com/in/francine-rengifo*

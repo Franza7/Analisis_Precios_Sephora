@@ -33,7 +33,7 @@ Sephora's own-brand products consistently outperform luxury brands in customer e
 
 ## 📁 Files
 - `Sephora_Price_Analysis.xlsx` — cleaned dataset + pivot tables + dashboard
-- - `Dashboard_PowerBI.png` — Power BI dashboard with 4 visualizations
+- `Dashboard_PowerBI.png` — Power BI dashboard with 4 visualizations
 
 ## 🚀 Next Steps
 - Reproduce this analysis in **Power BI** for interactive filtering

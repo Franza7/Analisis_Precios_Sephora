@@ -17,6 +17,7 @@ Analysis of 8,000+ Sephora products to identify pricing distribution patterns an
 - **Microsoft Excel** — data cleaning, pivot tables, conditional formulas
 - **Dynamic Dashboard** — interactive price distribution chart by brand
 - **Data Segmentation** — accessible (<$100) vs luxury (>$100) classification
+- **Python (pandas · matplotlib)** — data cleaning, EDA and value-score visualization
 
 ## 📊 Key Findings
 | Insight | Result |
@@ -32,12 +33,13 @@ Analysis of 8,000+ Sephora products to identify pricing distribution patterns an
 Sephora's own-brand products consistently outperform luxury brands in customer engagement relative to price. The "Cleansing & Exfoliating Wipes" at $3 with 266,000 loves is a clear example — making it a strong candidate for inventory prioritization.
 
 ## 📁 Files
-- `Sephora_Price_Analysis.xlsx` — cleaned dataset + pivot tables + dashboard
-- `Dashboard_PowerBI.png` — Power BI dashboard with 4 visualizations
-
+- `Sephora_Price_Analysis.xlsx` — cleaned dataset + pivot tables + Excel dashboard
+- `Dashboard_PowerBi.png` — Power BI dashboard with 4 visualizations
+- `Sephora_Python_Analysis.ipynb` — Python EDA: data cleaning + value score analysis
+- `best_value_brands_sephora.png` — Top 10 best value brands visualization
 ## 🚀 Next Steps
 - Reproduce this analysis in **Power BI** for interactive filtering
-- Add **Python (pandas)** version for automated data cleaning
+- Add SQL queries for advanced filtering and segmentation
 - Expand to include category-level analysis
 
 ---
